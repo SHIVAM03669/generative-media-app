@@ -1,8 +1,13 @@
 # GenCanvas
 
 A React-based generative image application that transforms text prompts into images using Hugging Face's Inference API. Features a complete workflow from prompt creation to gallery management to canvas-based image editing.
+<img width="1890" height="935" alt="image" src="https://github.com/user-attachments/assets/a61e87d5-aadd-443c-89ac-597a79bb1e25" />
+<img width="548" height="772" alt="image" src="https://github.com/user-attachments/assets/8d0450af-cc2f-49fb-a194-7b7bbde3bc7a" />
+<img width="541" height="671" alt="image" src="https://github.com/user-attachments/assets/1fd8f4a3-a2af-4c78-b522-c6dc2efc991b" />
+<img width="552" height="912" alt="image" src="https://github.com/user-attachments/assets/4e922f16-6dcf-4712-898d-6e56661ca6e5" />
 
-![GenCanvas Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=GenCanvas+Demo)
+
+
 
 ## ✨ Features
 
